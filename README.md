@@ -8,8 +8,10 @@ The COVID-19 pandemic has put immense pressure on healthcare systems around the 
 
 # Models
 ## U-Net
+![alt text](https://github.com/palfibogdan/3D-covid-segmentation/blob/3bca19177bc3ca140ae1b20e15e6f211dccc9745/Visualization/UNET.png)
 
 ## nnU-Net
+![alt text](https://github.com/palfibogdan/3D-covid-segmentation/blob/3bca19177bc3ca140ae1b20e15e6f211dccc9745/Visualization/nnUnet.png)
 
 ## Visualization
 ### Original CT scan
